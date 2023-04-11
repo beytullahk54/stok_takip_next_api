@@ -17,6 +17,7 @@ class Stoktakip extends Migration
             $table->id();
             $table->string('urun_adi');
             $table->string('urun_fiyati');
+            $table->string('urun_stok');
             $table->string('user_id');
             $table->timestamps();
         });
