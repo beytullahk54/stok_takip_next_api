@@ -2,6 +2,7 @@
 <h1>Basit Stok Yönetim Paneli</h1>
 <h2>React(Next.js) </h2>
 <h2>Laravel</h2>
+<p> Bu proje tamamen eğitim için hazırlanmıştır.</p>
 
 
 
